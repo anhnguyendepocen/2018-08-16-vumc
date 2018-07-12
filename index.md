@@ -461,7 +461,6 @@ and our administrator may contact you if we need any extra information.</h4>
   </p>
 
   <div class="row">
-    <div class="col-md-4">
       <h4 id="editor-all">Windows, macOS and Linux</h4>
       <p>
       <a href="https://code.visualstudio.com/">Visual Studio Code</a> (or VSCode) is a free, open source text editor from Microsoft that runs on all three main computing platforms. Its easy to use and extensible, and recent version of Anaconda Python now bundle it as an optional download. Look for the prompt when you install Anaconda. 
@@ -471,7 +470,6 @@ and our administrator may contact you if we need any extra information.</h4>
         <a href="http://atom.io">Atom</a>,
         <a href="https://www.sublimetext.com/">Sublime Text</a>.
       </p>
-    </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
