@@ -460,17 +460,14 @@ and our administrator may contact you if we need any extra information.</h4>
     exclamation mark), then hitting Return to return to the shell.
   </p>
 
-  <div class="row">
-      <h4 id="editor-all">Windows, macOS and Linux</h4>
-      <p>
-      <a href="https://code.visualstudio.com/">Visual Studio Code</a> (or VSCode) is a free, open source text editor from Microsoft that runs on all three main computing platforms. Its easy to use and extensible, and recent version of Anaconda Python now bundle it as an optional download. Look for the prompt when you install Anaconda. 
-      </p>
-      <p>
-        If for some reason you would prefer not to use VSCode, others editors that you can use are
-        <a href="http://atom.io">Atom</a>,
-        <a href="https://www.sublimetext.com/">Sublime Text</a>.
-      </p>
-  </div>
+  <p>
+    <a href="https://code.visualstudio.com/">Visual Studio Code</a> (or VSCode) is a free, open source text editor from Microsoft that runs on all three main computing platforms. Its easy to use and extensible, and recent version of Anaconda Python now bundle it as an optional download. Look for the prompt when you install Anaconda. 
+  </p>
+  <p>
+    If for some reason you would prefer not to use VSCode, others editors that you can use are
+    <a href="http://atom.io">Atom</a>,
+    <a href="https://www.sublimetext.com/">Sublime Text</a>.
+  </p>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
