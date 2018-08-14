@@ -45,11 +45,6 @@ eventbrite: 47932733095          # optional: alphanumeric key for Eventbrite reg
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -202,6 +197,11 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <hr/>
 
+<h2 id="slack">Slack</h2>
+
+<p>Our workshop will use Slack to communicate among learners and instructors. You can join our Slack channel <a href="https://swc-vumc-2018.slack.com">here</a>.
+
+<hr/>
 
 {% comment %}
   SCHEDULE
